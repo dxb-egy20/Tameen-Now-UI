@@ -1,0 +1,7 @@
+{
+  "name": "Tameen Now - Insurance Enterprise",
+  "description": "A comprehensive insurance application for customers and agents, supporting Motor, Medical, and General insurance with RTL/LTR capabilities.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
